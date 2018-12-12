@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+form div.input-field input{
+    padding-left: 15px;
+    color: #25a297;
+}
+
+input.ng-invalid.ng-dirty{
+    border-bottom-color: #e91e63;
+    box-shadow: 0 1px 0 0 #e91e63;
+}
+.input-field>label{
+    font-size: 1.2rem;
+    font-weight: bold;
+}
